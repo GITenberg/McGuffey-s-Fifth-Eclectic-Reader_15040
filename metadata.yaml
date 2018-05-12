@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5671
     wikipedia: http://en.wikipedia.org/wiki/William_Holmes_McGuffey
 description: A traditional reader including stories, poems, and new word drills.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15040#McGuffey-s-Fifth-Eclectic-Reader
 gutenberg_bookshelf: Children's Instructional Books
 gutenberg_issued: '2005-02-14'
 gutenberg_type: Text
